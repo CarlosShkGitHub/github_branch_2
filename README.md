@@ -1,1 +1,1 @@
-# "Guten morgen, mine erste commit"
+# "Guten morgen, SUPERVISOR"
